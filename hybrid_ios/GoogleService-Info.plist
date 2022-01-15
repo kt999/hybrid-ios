@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>452318694111-bit8p01pprqr5u5pfs5otd1deno3shv6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.452318694111-bit8p01pprqr5u5pfs5otd1deno3shv6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpCm5_v0B2KD_w-02DQghxeliwAe76QJA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>452318694111</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.team.modu.ios</string>
+	<key>PROJECT_ID</key>
+	<string>softsquared-modu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>softsquared-modu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:452318694111:ios:b08b7e6c1af1a45756776a</string>
+	<key>DATABASE_URL</key>
+	<string>https://softsquared-modu.firebaseio.com</string>
+</dict>
+</plist>
